@@ -1,0 +1,61 @@
+#a1 /* id associated with image on menu-bar*/
+{
+    
+    float: right;
+    width: 25px;
+    height:25px;
+}
+body
+{
+    background-color: rgb(183, 248, 130);
+    color: black;
+}
+p,h4,li
+{
+    color:black;
+    font-size: 20px;
+}
+#a2
+{
+    line-height:3px;
+}
+#about
+{
+    margin-top: 40px;
+    
+}
+#a3
+{
+    width:100px;
+    height:100px;
+}
+#t1
+{
+    font-size:20px ;
+    font-weight: bold;
+    color: black;
+}
+#a4:hover
+{
+    transform: scale(1.5, 1.5);
+}
+table{
+    width:80%;
+    border-collapse: collapse;
+}
+td, th
+{
+    border:2px solid #110404;
+    text-align: left;
+    padding:8px;
+}
+
+footer{
+    position:sticky;
+
+    width:100%;
+    line-height: 25px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
